@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student with the [AIDOS Lab](https://aidos.group/) supervised by [Professor Bastian Rieck](https://bastian.rieck.me/) at the University of Fribourg.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My background is in mathematics with a focus on algebraic topology and graph theory.
+I have finished my Master's Thesis with [Dr. Sara Kalisnik Hintz](https://sites.psu.edu/skalisnik/) on the topic of magnitude homology.
+Currently, I am excited to work on applying these concepts in a machine learning setting.

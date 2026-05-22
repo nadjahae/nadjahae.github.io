@@ -271,7 +271,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Hausermann]
+  last_name: [Häusermann]
   first_name: [Nadja, N.]
 
   style: apa

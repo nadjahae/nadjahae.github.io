@@ -12,8 +12,9 @@
       "postalCode": "1700",
       "city": "Fribourg",
       "countryCode": "CH",
-   "label": "Scientist",
-    "image": "",      "region": "Fribourg"
+      "label": "Scientist",
+      "image": "",
+      "region": "Fribourg"
     },
     "profiles": [
     ]

@@ -641,7 +641,7 @@ jsonresume:
   - education
   - work
   # - publications
-  # - projects  
+  # - projects
   # - volunteer
   # - awards
   - certificates
